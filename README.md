@@ -1,1 +1,1 @@
-# is-analizi-hastane-y-netimi-muayene-uygulamas-
+# is-analizi-hastane-yonetimi-muayene-uygulamas-
