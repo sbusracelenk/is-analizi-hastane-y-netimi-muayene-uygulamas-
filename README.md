@@ -1,1 +1,1 @@
-# is-analizi-hastane-yonetimi-muayene-uygulamas-
+# is-analizi-hastane-yonetimi-muayene-uygulaması-
